@@ -1,6 +1,6 @@
 # 1174376  The bug about the UGUI dropdown runtime template's canvas sorting layer
 
-[Click here to back to root readme file](../../Readme.md)
+[Click here to back to root readme file](../../README.md)
 
 ## Bug description
 
